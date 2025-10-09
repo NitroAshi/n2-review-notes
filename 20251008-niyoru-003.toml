@@ -1,0 +1,18 @@
+id = "20251008-niyoru-003"
+level = "N2"
+
+[question]
+text = "部長の指示（　）仕事を進めたが、うまくいかなかった。"
+choices = ["どおりに", "とおりに", "にたいして", "にたいしての"]
+correct = "どおりに"
+
+[grammar]
+main = "どおりに"
+related = ["とおりに"]
+
+tags = [
+  "level/N2",
+  "grammar/どおりに",
+  "function/依據",
+  "pattern/助詞文型"
+]

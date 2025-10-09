@@ -1,0 +1,18 @@
+id = "try-n3-06-03"
+level = "N3"
+
+[question]
+text = "今回の転勤は私（　）大きなチャンスだと思っています。"
+choices = ["にたいして", "にとって", "ばかりか", "によって"]
+correct = "にとって"
+
+[grammar]
+main = "にとって"
+related = ["ばかりか", "にたいして", "によって"]
+
+tags = [
+  "level/N3",
+  "grammar/にとって",
+  "function/立場評価",
+  "pattern/助詞文型"
+]

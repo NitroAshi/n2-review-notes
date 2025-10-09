@@ -1,0 +1,18 @@
+id = "try-n3-05-06"
+level = "N3"
+
+[question]
+text = "この大学の図書館は本校の学生（　）、一般の方もご利用になれます。"
+choices = ["はもちろん", "ほど", "のまま", "にたいして"]
+correct = "はもちろん"
+
+[grammar]
+main = "はもちろん"
+related = ["だけでなく", "ばかりでなく"]
+
+tags = [
+  "level/N3",
+  "grammar/はもちろん",
+  "function/添加",
+  "pattern/接続表現"
+]

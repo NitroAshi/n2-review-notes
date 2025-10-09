@@ -1,0 +1,18 @@
+id = "try-n3-06-05"
+level = "N3"
+
+[question]
+text = "現在、大雪（　）積雪の影響で電車のダイヤが大幅に乱れております。"
+choices = ["を通しての", "による", "ばかりか", "にとっての"]
+correct = "による"
+
+[grammar]
+main = "による"
+related = ["によって", "によれば", "によると"]
+
+tags = [
+  "level/N3",
+  "grammar/による",
+  "function/原因",
+  "pattern/助詞文型"
+]

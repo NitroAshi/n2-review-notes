@@ -1,0 +1,18 @@
+id = "try-n3-05-01"
+level = "N3"
+
+[question]
+text = "テレビを買おうと思って店に行ったら、（　）高くなかった。"
+choices = ["思っていたほど", "思うより", "思うかわりに", "思わずに"]
+correct = "思っていたほど"
+
+[grammar]
+main = "ほど"
+related = ["より"]
+
+tags = [
+  "level/N3",
+  "grammar/ほど",
+  "function/程度比較",
+  "pattern/助詞文型"
+]

@@ -1,0 +1,18 @@
+id = "try-n3-05-08"
+level = "N3"
+
+[question]
+text = "私は中学生になっても泣き虫だったので、よく母に「子どもも（　）すぐ泣くのはやめなさい」と言われました。"
+choices = ["のかわりに", "はもちろん", "みたいに", "ほど"]
+correct = "みたいに"
+
+[grammar]
+main = "みたいに"
+related = ["ように", "ほど"]
+
+tags = [
+  "level/N3",
+  "grammar/みたいに",
+  "function/比喩",
+  "pattern/助詞文型"
+]

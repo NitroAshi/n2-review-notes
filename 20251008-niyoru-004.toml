@@ -1,0 +1,18 @@
+id = "20251008-niyoru-004"
+level = "N2"
+
+[question]
+text = "見学を希望する場合は、1週間前までに担当者（　）申し込んでください。"
+choices = ["について", "のために", "のとおりに", "をつうじて"]
+correct = "をつうじて"
+
+[grammar]
+main = "をつうじて"
+related = ["を通して"]
+
+tags = [
+  "level/N2",
+  "grammar/をつうじて",
+  "function/手段",
+  "pattern/助詞文型"
+]

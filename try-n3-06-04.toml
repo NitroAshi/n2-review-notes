@@ -1,0 +1,18 @@
+id = "try-n3-06-04"
+level = "N3"
+
+[question]
+text = "子どもは元気であれば（　）けがをしやすいですから、お母さんがよく気をつけてあげてください。"
+choices = ["あるほど", "あるばかり", "あるはず", "あるなら"]
+correct = "あるほど"
+
+[grammar]
+main = "～ば～ほど"
+related = ["～ほど"]
+
+tags = [
+  "level/N3",
+  "grammar/～ば～ほど",
+  "function/程度比較",
+  "pattern/助詞文型"
+]

@@ -1,0 +1,19 @@
+id = "20251008-niyoru-001"
+level = "N2"
+
+[question]
+text = "父の店でもコンピューター（ ）商品管理を行っている。"
+choices = ["によると", "によれば", "による", "によったら"]
+correct = "による"
+
+[grammar]
+main = "による"
+related = ["によって", "によれば", "によると"]
+
+tags = [
+  "level/N2",
+  "grammar/による",
+  "function/手段",
+  "pattern/連体修飾",
+  "pattern/助詞文型"
+]

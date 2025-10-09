@@ -1,0 +1,18 @@
+id = "try-n3-06-02"
+level = "N3"
+
+[question]
+text = "うちの猫は、私がドアを開ける（　）外へ出ようとするので困ります。"
+choices = ["かわりに", "ばかりか", "たびに", "ままで"]
+correct = "たびに"
+
+[grammar]
+main = "たびに"
+related = ["ばかりか"]
+
+tags = [
+  "level/N3",
+  "grammar/たびに",
+  "function/頻度",
+  "pattern/助詞文型"
+]

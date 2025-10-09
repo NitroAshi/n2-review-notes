@@ -1,0 +1,18 @@
+id = "try-n3-05-04"
+level = "N3"
+
+[question]
+text = "弟は本当に疲れたらしく、服を（　）ベッドで寝てしまった。"
+choices = ["着るかわりに", "着たまま", "着るほど", "着るように"]
+correct = "着たまま"
+
+[grammar]
+main = "まま"
+related = ["かわりに"]
+
+tags = [
+  "level/N3",
+  "grammar/まま",
+  "function/状態保持",
+  "pattern/助詞文型"
+]

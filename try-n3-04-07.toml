@@ -1,0 +1,18 @@
+id = "try-n3-05-07"
+level = "N3"
+
+[question]
+text = "A：さっき買ったコップに、ひびが入ってたんだ。\nB：じゃ、取り替えて（　）？"
+choices = ["もらえたら", "もらったら", "もらったっけ", "もらえたって"]
+correct = "もらったら"
+
+[grammar]
+main = "てもらったら"
+related = ["てもらう", "てもらえたら"]
+
+tags = [
+  "level/N3",
+  "grammar/てもらったら",
+  "function/提案",
+  "pattern/て形"
+]

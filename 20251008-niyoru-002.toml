@@ -1,0 +1,18 @@
+id = "20251008-niyoru-002"
+level = "N2"
+
+[question]
+text = "今朝のニュース（　）、昨日高速道路で大事故があったそうだ。"
+choices = ["によれば", "によって", "について", "をつうじて"]
+correct = "によれば"
+
+[grammar]
+main = "によれば"
+related = ["によると", "によって"]
+
+tags = [
+  "level/N2",
+  "grammar/によれば",
+  "function/消息來源",
+  "pattern/助詞文型"
+]

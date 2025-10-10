@@ -1,0 +1,18 @@
+id = "try-n3-10-08"
+level = "N3"
+
+[question]
+text = "化粧品は高ければいい（　）ので、使ってみて自分に合ったものを選びましょう。"
+choices = ["とは限らない", "かと思う", "に決まっている", "しかない"]
+correct = "とは限らない"
+
+[grammar]
+main = "とは限らない"
+related = ["必ずしも〜とは限らない"]
+
+tags = [
+  "level/N3",
+  "grammar/とは限らない",
+  "function/否定推量",
+  "pattern/文末表現"
+]

@@ -1,0 +1,18 @@
+id = "try-n3-10-06"
+level = "N3"
+
+[question]
+text = "A：風邪なんでしょう。会社休めば？\nB：年末の忙しい時期に風邪（　）、休めないよ。"
+choices = ["だからこそ", "なんかで", "さえ", "のくせに"]
+correct = "なんかで"
+
+[grammar]
+main = "なんか"
+related = ["など", "なんて"]
+
+tags = [
+  "level/N3",
+  "grammar/なんか",
+  "function/軽視・否定",
+  "pattern/口語"
+]

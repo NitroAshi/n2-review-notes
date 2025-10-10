@@ -1,0 +1,18 @@
+id = "try-n3-10-03"
+level = "N3"
+
+[question]
+text = "A：え？雨なのにディズニーランド行くの？\nB：雨が降っている（　）行くんだよ。きっとすいてるよ。"
+choices = ["からといって", "からこそ", "からには", "からでないと"]
+correct = "からこそ"
+
+[grammar]
+main = "からこそ"
+related = ["からには", "からといって", "からでないと"]
+
+tags = [
+  "level/N3",
+  "grammar/からこそ",
+  "function/強調理由",
+  "pattern/接続表現"
+]

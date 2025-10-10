@@ -1,0 +1,18 @@
+id = "try-n3-11-07"
+level = "N3"
+
+[question]
+text = "旅行中にパスポートを盗まれたとき（　）困ったことはなかった。"
+choices = ["さえ", "ほど", "だけ", "のことといったら"]
+correct = "ほど"
+
+[grammar]
+main = "ほど"
+related = ["くらい"]
+
+tags = [
+  "level/N3",
+  "grammar/ほど",
+  "function/程度・強調",
+  "pattern/比較表現"
+]

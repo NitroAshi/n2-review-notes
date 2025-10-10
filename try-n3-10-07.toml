@@ -1,0 +1,18 @@
+id = "try-n3-10-07"
+level = "N3"
+
+[question]
+text = "おいしい（　）、そんなに食べると、おなかをこわすよ。"
+choices = ["からといって", "といえば", "からこそ", "くせに"]
+correct = "からといって"
+
+[grammar]
+main = "からといって"
+related = ["必ずしも〜とは限らない"]
+
+tags = [
+  "level/N3",
+  "grammar/からといって",
+  "function/逆接・制限",
+  "pattern/接続表現"
+]

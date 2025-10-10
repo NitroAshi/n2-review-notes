@@ -1,0 +1,18 @@
+id = "try-n3-11-03"
+level = "N3"
+
+[question]
+text = "昨日徹夜したせいで、目を開けていられない（　）眠いんだ。"
+choices = ["ように", "くらい", "とおりに", "そうに"]
+correct = "くらい"
+
+[grammar]
+main = "くらい"
+related = ["ほど"]
+
+tags = [
+  "level/N3",
+  "grammar/くらい",
+  "function/程度",
+  "pattern/副助詞"
+]

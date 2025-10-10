@@ -1,0 +1,18 @@
+id = "try-n3-10-02"
+level = "N3"
+
+[question]
+text = "A：あのピアス、気に入ってたんでしょう。もうちょっと探してみようよ。\nB：ありがとう。でも、もういいよ。この人混みじゃ、見つかり（　）よ。"
+choices = ["っこない", "ましょう", "そうだ", "きります"]
+correct = "っこない"
+
+[grammar]
+main = "Vっこない"
+related = ["絶対に〜ない"]
+
+tags = [
+  "level/N3",
+  "grammar/っこない",
+  "function/強調否定",
+  "pattern/口語"
+]

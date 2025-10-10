@@ -1,0 +1,18 @@
+id = "try-n3-11-02"
+level = "N3"
+
+[question]
+text = "A：かわいい袋。あき子の手作り？\nB：まさか！シャツのボタン（　）つけたことないのに…。"
+choices = ["だけ", "くらい", "さえ", "ほど"]
+correct = "さえ"
+
+[grammar]
+main = "さえ"
+related = ["すら", "でさえ"]
+
+tags = [
+  "level/N3",
+  "grammar/さえ",
+  "function/強調・極端例",
+  "pattern/取り立て"
+]

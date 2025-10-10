@@ -1,0 +1,18 @@
+id = "try-n3-10-01"
+level = "N3"
+
+[question]
+text = "アメリカの高校を卒業したんだから、（　）わけがないのに…。"
+choices = ["話した", "話せる", "話す", "話せない"]
+correct = "話せない"
+
+[grammar]
+main = "わけがない"
+related = ["可能形＋わけがない"]
+
+tags = [
+  "level/N3",
+  "grammar/わけがない",
+  "function/否定推量",
+  "pattern/文末表現"
+]

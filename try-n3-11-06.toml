@@ -1,0 +1,18 @@
+id = "try-n3-11-06"
+level = "N3"
+
+[question]
+text = "涼しいから夏に北海道へ行く人が多いですが、夏より冬のほうが北海道（　）景色が見られると思いますよ。"
+choices = ["どおりの", "ばかりの", "ほど", "らしい"]
+correct = "らしい"
+
+[grammar]
+main = "らしい"
+related = ["〜っぽい", "〜気味"]
+
+tags = [
+  "level/N3",
+  "grammar/らしい",
+  "function/典型・特徴",
+  "pattern/形容語"
+]

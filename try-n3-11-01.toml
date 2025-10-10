@@ -1,0 +1,18 @@
+id = "try-n3-11-01"
+level = "N3"
+
+[question]
+text = "最近少し太り（　）から、食事に気をつけているんです。"
+choices = ["っこない", "っぽい", "だらけだ", "気味だ"]
+correct = "気味だ"
+
+[grammar]
+main = "気味だ"
+related = ["〜っぽい", "〜気がする"]
+
+tags = [
+  "level/N3",
+  "grammar/気味だ",
+  "function/傾向・状態",
+  "pattern/名詞・動詞接続"
+]

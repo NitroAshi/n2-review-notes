@@ -1,0 +1,18 @@
+id = "try-n3-11-08"
+level = "N3"
+
+[question]
+text = "太陽などの自然エネルギーの開発（　）、これからのエネルギー問題は語れないだろう。"
+choices = ["をぬきにして", "によって", "といえば", "について"]
+correct = "をぬきにして"
+
+[grammar]
+main = "をぬきにして"
+related = ["なしでは", "なくして"]
+
+tags = [
+  "level/N3",
+  "grammar/をぬきにして",
+  "function/条件・欠かせない",
+  "pattern/固定句型"
+]

@@ -1,0 +1,18 @@
+id = "try-n3-07-07"
+level = "N3"
+
+[question]
+text = "12月に（　）、チケットが取れない場合がありますので、お早めにお申し込みください。"
+choices = ["なったばかりで", "なりますと", "なればいいのに", "なるかわりに"]
+correct = "なりますと"
+
+[grammar]
+main = "～ますと"
+related = ["～と"]
+
+tags = [
+  "level/N3",
+  "grammar/～ますと",
+  "function/確定条件",
+  "pattern/接続表現"
+]

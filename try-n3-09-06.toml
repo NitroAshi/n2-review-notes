@@ -1,0 +1,18 @@
+id = "try-n3-09-06"
+level = "N3"
+
+[question]
+text = "肉まん買ってきたよ。温かい（　）どうぞ。"
+choices = ["うちに", "ために", "ように", "とおり"]
+correct = "うちに"
+
+[grammar]
+main = "うちに"
+related = ["～ているうちに"]
+
+tags = [
+  "level/N3",
+  "grammar/うちに",
+  "function/時間",
+  "pattern/接続表現"
+]

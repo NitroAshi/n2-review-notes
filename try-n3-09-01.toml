@@ -1,0 +1,19 @@
+id = "try-n3-09-01"
+level = "N3"
+
+[question]
+text = "申し訳ありませんが、部長に（　）、お答えできません。"
+choices = ["聞くといえば", "聞いているうちに", "聞きかけで", "聞いてからでなければ"]
+correct = "聞いてからでなければ"
+
+[grammar]
+main = "～てからでなければ"
+related = ["～てからでないと"]
+
+tags = [
+  "level/N3",
+  "grammar/～てからでなければ",
+  "function/条件",
+  "pattern/て形",
+  "prefix/て形"
+]

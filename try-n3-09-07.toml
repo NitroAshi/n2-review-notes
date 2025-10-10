@@ -1,0 +1,18 @@
+id = "try-n3-09-07"
+level = "N3"
+
+[question]
+text = "私は、見る人が最後まで（　）ようなおもしろいドラマを作りたいと思っています。"
+choices = ["見るはずがない", "見ずにはいられない", "見るほどではない", "見かけない"]
+correct = "見ずにはいられない"
+
+[grammar]
+main = "Vずにはいられない"
+related = ["Vないではいられない"]
+
+tags = [
+  "level/N3",
+  "grammar/ずにはいられない",
+  "function/感情・自然発生",
+  "pattern/否定形"
+]

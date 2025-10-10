@@ -1,0 +1,18 @@
+id = "try-n3-09-04"
+level = "N3"
+
+[question]
+text = "弟は（　）ノートがたくさんあるのに、また新しいノートを買ってきた。"
+choices = ["使い終わる", "使いかけの", "使うほどの", "使うかわりに"]
+correct = "使いかけの"
+
+[grammar]
+main = "使いかけ"
+related = ["～かける"]
+
+tags = [
+  "level/N3",
+  "grammar/使いかけ",
+  "function/状態",
+  "pattern/接尾語"
+]

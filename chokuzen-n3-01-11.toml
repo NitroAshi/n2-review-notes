@@ -1,0 +1,18 @@
+id = "chokuzen-n3-01-11"
+level = "N3"
+
+[question]
+text = "折り紙を図（　）折ります。"
+choices = ["っぽく", "みたいな", "らしく", "のように"]
+correct = "のように"
+
+[grammar]
+main = "のように"
+related = ["ように", "みたいに", "らしく"]
+
+tags = [
+  "level/N3",
+  "grammar/ように",
+  "function/方法・比喩",
+  "pattern/助詞文型"
+]

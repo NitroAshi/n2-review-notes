@@ -1,0 +1,18 @@
+id = "chokuzen-n3-01-07"
+level = "N3"
+
+[question]
+text = "ちゃんと世話をしないと、金魚は（　）よ。"
+choices = ["死んじゃった", "死んちゃう", "死んじゃった", "死んじゃう"]
+correct = "死んじゃう"
+
+[grammar]
+main = "〜てしまう → 〜ちゃう／〜じゃう"
+related = ["〜てしまった → 〜ちゃった／〜じゃった"]
+
+tags = [
+  "level/N3",
+  "grammar/〜ちゃう",
+  "function/結果・未来推測",
+  "pattern/口語縮約"
+]

@@ -1,0 +1,18 @@
+id = "chokuzen-n3-01-14"
+level = "N3"
+
+[question]
+text = "テレビ、見ないなら（　）。"
+choices = ["ついといて", "消しといて", "つけといて", "消えといて"]
+correct = "消しといて"
+
+[grammar]
+main = "〜ておく（といて）"
+related = ["Vておく", "Vておいて"]
+
+tags = [
+  "level/N3",
+  "grammar/ておく",
+  "function/依頼",
+  "pattern/口語省略"
+]

@@ -1,0 +1,19 @@
+id = "chokuzen-n3-01-08"
+level = "N3"
+
+[question]
+text = "間に合わなくなってしまうよ。早く準備（　）！"
+choices = ["されると", "しちゃうと", "しないと", "しとくと"]
+correct = "しないと"
+
+[grammar]
+main = "〜しないと（いけない）"
+related = ["〜しなければならない", "〜ないとだめ"]
+
+tags = [
+  "level/N3",
+  "grammar/〜しないと",
+  "function/義務・必要",
+  "pattern/口語省略",
+  "pattern/te形省略"
+]

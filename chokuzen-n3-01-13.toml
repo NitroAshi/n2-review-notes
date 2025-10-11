@@ -1,0 +1,18 @@
+id = "chokuzen-n3-01-13"
+level = "N3"
+
+[question]
+text = "この牛乳はちょっとうすくて（　）。"
+choices = ["水っぽい", "水っぽくない", "水らしい", "水らしくない"]
+correct = "水っぽい"
+
+[grammar]
+main = "〜っぽい"
+related = ["っぽい", "らしい"]
+
+tags = [
+  "level/N3",
+  "grammar/っぽい",
+  "function/比喩・性質",
+  "pattern/形容詞派生"
+]

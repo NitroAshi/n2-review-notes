@@ -1,0 +1,18 @@
+id = "chokuzen-n3-01-09"
+level = "N3"
+
+[question]
+text = "みなさんの国でよく（　）日本人はだれですか。"
+choices = ["知らされている", "知らせている", "知られている", "知らさせている"]
+correct = "知られている"
+
+[grammar]
+main = "〜れている（受身形＋継続）"
+related = ["〜られる（受身形）", "〜ている（状態の継続）"]
+
+tags = [
+  "level/N3",
+  "grammar/受身形",
+  "function/状態",
+  "pattern/動詞受身＋ている"
+]

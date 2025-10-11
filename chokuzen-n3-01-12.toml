@@ -1,0 +1,18 @@
+id = "chokuzen-n3-01-12"
+level = "N3"
+
+[question]
+text = "習った日本語はすぐに（　）しましょう。"
+choices = ["使って", "使おう", "使わない", "使うように"]
+correct = "使うように"
+
+[grammar]
+main = "ようにする"
+related = ["ように", "ために"]
+
+tags = [
+  "level/N3",
+  "grammar/ようにする",
+  "function/努力・習慣",
+  "pattern/複合文"
+]

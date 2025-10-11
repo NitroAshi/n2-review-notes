@@ -1,0 +1,18 @@
+id = "chokuzen-n3-01-15"
+level = "N3"
+
+[question]
+text = "そこに（　）じゃまだから、向こうに行って。"
+choices = ["いさせると", "いられると", "いさせないと", "いられないと"]
+correct = "いられると"
+
+[grammar]
+main = "いられると"
+related = ["いる", "〜と"]
+
+tags = [
+  "level/N3",
+  "grammar/と条件",
+  "function/条件",
+  "pattern/存在動詞"
+]

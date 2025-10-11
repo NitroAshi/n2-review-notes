@@ -1,0 +1,18 @@
+id = "chokuzen-n3-01-10"
+level = "N3"
+
+[question]
+text = "シャワーを（　）としたが、水が出なかった。"
+choices = ["あばよう", "あびよう", "あびろう", "あばろう"]
+correct = "あびよう"
+
+[grammar]
+main = "〜よう（意向形）"
+related = ["〜とする（尝试/打算）"]
+
+tags = [
+  "level/N3",
+  "grammar/意向形",
+  "function/意志",
+  "pattern/〜ようとする"
+]

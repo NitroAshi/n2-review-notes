@@ -1,0 +1,18 @@
+id = "chokuzen-n3-01-04"
+level = "N3"
+
+[question]
+text = "このグラフからもわかる（　）人口は減っています。"
+choices = ["ために", "ように", "らしく", "みたい"]
+correct = "ように"
+
+[grammar]
+main = "〜ように"
+related = ["〜とおりに", "〜みたい", "〜らしく"]
+
+tags = [
+  "level/N3",
+  "grammar/〜ように",
+  "function/比況・引用",
+  "pattern/書き言葉"
+]

@@ -1,0 +1,18 @@
+id = "chokuzen-n3-02-02"
+level = "N3"
+
+[question]
+text = "祖父は私の名前を間違えて（　）います。"
+choices = ["ばかり", "さえ", "こそ", "だけ"]
+correct = "ばかり"
+
+[grammar]
+main = "〜てばかりいる：表示某种行为总是发生，带有抱怨或不满语气"
+related = ["ばかり", "さえ"]
+
+tags = [
+  "level/N3",
+  "grammar/〜てばかりいる",
+  "function/頻度・習慣",
+  "pattern/口語表現"
+]

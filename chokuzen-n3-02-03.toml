@@ -1,0 +1,18 @@
+id = "chokuzen-n3-02-03"
+level = "N3"
+
+[question]
+text = "商品に（　）お問い合わせはこちらにどうぞ。"
+choices = ["よれば", "について", "関する", "さえ"]
+correct = "関する"
+
+[grammar]
+main = "名詞＋に関する＋名詞：表示‘关于…的…’，用于正式/书面语"
+related = ["について", "に関して"]
+
+tags = [
+  "level/N3",
+  "grammar/に関する",
+  "function/説明",
+  "pattern/書き言葉・名詞修飾"
+]

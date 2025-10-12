@@ -1,0 +1,18 @@
+id = "chokuzen-n3-02-12"
+level = "N3"
+
+[question]
+text = "注意書き（　）、この薬を飲むと眠くなるらしい。"
+choices = ["によって", "によれば", "による", "について"]
+correct = "によれば"
+
+[grammar]
+main = "名詞＋によれば：表示传闻或信息的出处，‘根据…’"
+related = ["による", "によって", "について"]
+
+tags = [
+  "level/N3",
+  "grammar/によれば",
+  "function/伝聞・根拠",
+  "pattern/書き言葉"
+]

@@ -1,0 +1,18 @@
+id = "chokuzen-n3-02-04"
+level = "N3"
+
+[question]
+text = "（　）ことは知っていたが、−40℃とは驚いた。"
+choices = ["寒さ", "寒み", "寒く", "寒い"]
+correct = "寒い"
+
+[grammar]
+main = "形容詞＋こと：将形容词句子名词化，表示‘…这一点/这一事实’"
+related = ["〜さ", "〜み"]
+
+tags = [
+  "level/N3",
+  "grammar/形容詞＋こと",
+  "function/抽象化・名詞化",
+  "pattern/書き言葉"
+]

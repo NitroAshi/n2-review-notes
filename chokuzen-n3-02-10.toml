@@ -1,0 +1,18 @@
+id = "chokuzen-n3-02-10"
+level = "N3"
+
+[question]
+text = "管理人さん、上の階の人に夜遅く騒がない（　）ください。"
+choices = ["ようにして", "ようになって", "ように言って", "ようとしないで"]
+correct = "ように言って"
+
+[grammar]
+main = "動詞普通形＋ように言う：转述或请求别人去做/不要做某事"
+related = ["〜ようにする", "〜ようになる"]
+
+tags = [
+  "level/N3",
+  "grammar/〜ように言う",
+  "function/依頼・伝達",
+  "pattern/間接引用"
+]

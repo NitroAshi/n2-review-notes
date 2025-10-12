@@ -1,0 +1,18 @@
+id = "chokuzen-n3-02-07"
+level = "N3"
+
+[question]
+text = "よくかんでゆっくり（　）ように医者に言われた。"
+choices = ["食べる", "食べ", "食べて", "食べろ"]
+correct = "食べる"
+
+[grammar]
+main = "動詞普通形＋ように言われる：表示被要求/被嘱咐去做某事"
+related = ["命令形", "〜てください"]
+
+tags = [
+  "level/N3",
+  "grammar/〜ように言われる",
+  "function/依頼・指示",
+  "pattern/間接引用"
+]

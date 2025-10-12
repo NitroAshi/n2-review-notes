@@ -1,0 +1,18 @@
+id = "chokuzen-n3-02-08"
+level = "N3"
+
+[question]
+text = "だまっていないで、言いたいことを言って（　）。"
+choices = ["ないと", "させて", "ごらん", "ちゃって"]
+correct = "ごらん"
+
+[grammar]
+main = "動詞て形＋ごらん：表示‘试试看’，对听话人一种较为温和的命令"
+related = ["〜てみる", "〜なさい"]
+
+tags = [
+  "level/N3",
+  "grammar/〜てごらん",
+  "function/依頼・勧誘",
+  "pattern/口語表現"
+]

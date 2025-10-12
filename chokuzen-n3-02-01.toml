@@ -1,0 +1,18 @@
+id = "chokuzen-n3-01-01"
+level = "N3"
+
+[question]
+text = "このクラブには大人（　）入れません。"
+choices = ["というか", "によって", "ばかり", "だけしか"]
+correct = "だけしか"
+
+[grammar]
+main = "だけしか〜ない：表示限定，‘只有～才…’"
+related = ["しか〜ない", "だけ"]
+
+tags = [
+  "level/N3",
+  "grammar/だけしか",
+  "function/限定",
+  "pattern/否定表現"
+]

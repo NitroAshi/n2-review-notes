@@ -1,0 +1,18 @@
+id = "chokuzen-n3-02-11"
+level = "N3"
+
+[question]
+text = "色は青が好きです。青（　）深みのある青です。"
+choices = ["といっても", "というより", "といえば", "というと"]
+correct = "といっても"
+
+[grammar]
+main = "〜といっても：虽说…但是…，用于限定说明或补充解释"
+related = ["というより", "といえば", "というと"]
+
+tags = [
+  "level/N3",
+  "grammar/といっても",
+  "function/限定・補足",
+  "pattern/口語・説明"
+]

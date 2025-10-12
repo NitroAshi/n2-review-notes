@@ -1,0 +1,18 @@
+id = "chokuzen-n3-02-13"
+level = "N3"
+
+[question]
+text = "この事故（　）影響で、各線に遅れが出ています。"
+choices = ["によって", "によれば", "により", "による"]
+correct = "による"
+
+[grammar]
+main = "名詞＋による＋名詞：表示原因或依据，修饰名词"
+related = ["によって", "により"]
+
+tags = [
+  "level/N3",
+  "grammar/による",
+  "function/原因・理由",
+  "pattern/書き言葉・名詞修飾"
+]

@@ -1,0 +1,18 @@
+id = "chokuzen-n3-03-10"
+level = "N3"
+
+[question]
+text = "彼はシャワーを浴びた（　）シャツも洗った。"
+choices = ["ついでに", "たびに", "きり", "とおりに"]
+correct = "ついでに"
+
+[grammar]
+main = "～ついでに（顺便）"
+related = ["～ながら", "～かたがた"]
+
+tags = [
+  "level/N3",
+  "grammar/ついでに",
+  "function/附带・顺便",
+  "pattern/口語表現"
+]

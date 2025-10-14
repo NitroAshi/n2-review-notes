@@ -1,0 +1,18 @@
+id = "chokuzen-n3-03-12"
+level = "N3"
+
+[question]
+text = "あみだなに荷物を（　）まま電車を降りてしまった。"
+choices = ["置き", "置いて", "置く", "置いた"]
+correct = "置いた"
+
+[grammar]
+main = "～たまま（保持某状态）"
+related = ["～ないまま", "～っぱなし"]
+
+tags = [
+  "level/N3",
+  "grammar/たまま",
+  "function/状態保持",
+  "pattern/口語表現"
+]

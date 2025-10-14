@@ -1,0 +1,18 @@
+id = "chokuzen-n3-03-02”
+level = "N3"
+
+[question]
+text = "今、ちょっと手がはなせないので、後にして（　）んですが。"
+choices = ["もらえたい", "くれたい", "もらいたい", "くれない"]
+correct = "もらいたい"
+
+[grammar]
+main = "～てもらいたい（希望别人为自己做某事）"
+related = ["～てくれる", "～てもらう"]
+
+tags = [
+  "level/N3",
+  "grammar/てもらいたい",
+  "function/希望・依頼",
+  "pattern/丁寧表現"
+]

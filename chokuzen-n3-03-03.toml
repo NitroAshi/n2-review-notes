@@ -1,0 +1,18 @@
+id = "chokuzen-n3-03-03"
+level = "N3"
+
+[question]
+text = "一度もやったことがない（　）、上手に踊れますね。"
+choices = ["にしては", "はずで", "とおり", "というより"]
+correct = "にしては"
+
+[grammar]
+main = "～にしては（表示与预期不符，出乎意料）"
+related = ["～わりに", "～くせに"]
+
+tags = [
+  "level/N3",
+  "grammar/にしては",
+  "function/逆接・出乎意料",
+  "pattern/口語表現"
+]

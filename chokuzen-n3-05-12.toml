@@ -1,0 +1,18 @@
+id = "chokuzen-n3-05-12"
+level = "N3"
+
+[question]
+text = "ほめられると（　）うそでもうれしいものです。"
+choices = ["たとえ", "必ずしも", "つまり", "もしかすると"]
+correct = "たとえ"
+
+[grammar]
+main = "たとえ〜ても／でも：即使…也…，常用于逆接让步表达。"
+related = ["必ずしも〜とは限らない", "もしかすると", "つまり"]
+
+tags = [
+  "level/N3",
+  "grammar/たとえ〜ても",
+  "function/逆接・譲歩",
+  "pattern/口語・説明"
+]

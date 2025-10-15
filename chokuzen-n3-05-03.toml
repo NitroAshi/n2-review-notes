@@ -1,0 +1,18 @@
+id = "chokuzen-n3-05-03"
+level = "N3"
+
+[question]
+text = "夜空には数え（　）ほどの星がある。"
+choices = ["たてない", "かけない", "上げない", "切れない"]
+correct = "切れない"
+
+[grammar]
+main = "〜切れない：表示无法完全做完，‘…不尽/…不清’"
+related = ["〜きる（做完）", "〜かける（做到一半）"]
+
+tags = [
+  "level/N3",
+  "grammar/〜切れない",
+  "function/不可能・数量",
+  "pattern/口語・説明"
+]

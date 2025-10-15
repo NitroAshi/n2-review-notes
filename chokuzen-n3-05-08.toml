@@ -1,0 +1,18 @@
+id = "chokuzen-n3-05-08"
+level = "N3"
+
+[question]
+text = "手が痛くなる（　）漢字を書いて練習した。"
+choices = ["とおり", "せいで", "まで", "かけて"]
+correct = "まで"
+
+[grammar]
+main = "〜まで：表示程度，‘甚至…到…的程度’"
+related = ["〜ほど"]
+
+tags = [
+  "level/N3",
+  "grammar/まで",
+  "function/程度・限界",
+  "pattern/口語・説明"
+]

@@ -1,0 +1,18 @@
+id = "chokuzen-n3-05-11"
+level = "N3"
+
+[question]
+text = "早く雪が解けて春に（　）なあ。"
+choices = ["なるか", "なりたい", "ならない", "なればいい"]
+correct = "なればいい"
+
+[grammar]
+main = "〜ばいい：表示愿望或建议，这里是愿望‘要是…就好了’"
+related = ["〜たい", "〜といい"]
+
+tags = [
+  "level/N3",
+  "grammar/〜ばいい",
+  "function/願望",
+  "pattern/口語・感嘆"
+]

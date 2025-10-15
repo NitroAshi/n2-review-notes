@@ -1,0 +1,18 @@
+id = "chokuzen-n3-05-10"
+level = "N3"
+
+[question]
+text = "「ペンキぬり（　）注意」と書いてある。"
+choices = ["きり", "たて", "きれ", "まま"]
+correct = "たて"
+
+[grammar]
+main = "〜たて：表示动作刚刚完成，‘刚…完’"
+related = ["〜たばかり"]
+
+tags = [
+  "level/N3",
+  "grammar/〜たて",
+  "function/状態・完成直後",
+  "pattern/口語・掲示"
+]

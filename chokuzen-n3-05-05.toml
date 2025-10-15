@@ -1,0 +1,18 @@
+id = "chokuzen-n3-05-05"
+level = "N3"
+
+[question]
+text = "最近は女性（　）男性も化粧をするようになった。"
+choices = ["ばかり", "もちろん", "ばかりか", "だけしか"]
+correct = "ばかりか"
+
+[grammar]
+main = "〜ばかりか：不仅…而且…"
+related = ["〜はもちろん", "〜だけでなく"]
+
+tags = [
+  "level/N3",
+  "grammar/ばかりか",
+  "function/添加",
+  "pattern/書き言葉・説明"
+]

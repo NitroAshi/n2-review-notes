@@ -1,0 +1,18 @@
+id = "chokuzen-n3-05-13"
+level = "N3"
+
+[question]
+text = "彼女は話し方がていねいなの（　）動作がていねいでない。"
+choices = ["にかわって", "にとって", "に対して", "はもちろん"]
+correct = "に対して"
+
+[grammar]
+main = "〜に対して：表示对比，‘相对而言…’"
+related = ["〜に比べて", "〜反面"]
+
+tags = [
+  "level/N3",
+  "grammar/に対して",
+  "function/対比",
+  "pattern/書き言葉・説明"
+]

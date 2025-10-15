@@ -1,0 +1,18 @@
+id = "chokuzen-n3-05-02"
+level = "N3"
+
+[question]
+text = "たとえお金をくれると（　）、悪いことはしたくない。"
+choices = ["言われても", "言われたとたん", "言われたまま", "言われるとしたら"]
+correct = "言われても"
+
+[grammar]
+main = "〜ても：即使…也…"
+related = ["たとえ〜ても", "〜としたら"]
+
+tags = [
+  "level/N3",
+  "grammar/〜ても",
+  "function/逆接・譲歩",
+  "pattern/口語・書き言葉"
+]

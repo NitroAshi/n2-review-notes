@@ -1,0 +1,18 @@
+id = "chokuzen-n3-04-11"
+level = "N3"
+
+[question]
+text = "教えたことを生徒がどんどん覚えていくのを見ることほど、うれしい（　）。"
+choices = ["ことだ", "ことじゃない", "ことか", "ことはない"]
+correct = "ことはない"
+
+[grammar]
+main = "〜ことはない：惯用句『〜ほど…ことはない』表示‘没有比…更…的事’"
+related = ["〜ことか", "〜ことだ"]
+
+tags = [
+  "level/N3",
+  "grammar/ことはない",
+  "function/最上級表現",
+  "pattern/書き言葉・説明"
+]

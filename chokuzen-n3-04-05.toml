@@ -1,0 +1,18 @@
+id = "chokuzen-n3-04-05"
+level = "N3"
+
+[question]
+text = "川があふれて家が流される（　）雨が降った。"
+choices = ["につれて", "かぎり", "くらい", "うちに"]
+correct = "くらい"
+
+[grammar]
+main = "〜くらい：表示程度，相当于‘…的程度’"
+related = ["〜ほど"]
+
+tags = [
+  "level/N3",
+  "grammar/くらい",
+  "function/程度",
+  "pattern/口語・説明"
+]

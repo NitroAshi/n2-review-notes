@@ -1,0 +1,18 @@
+id = "chokuzen-n3-04-06"
+level = "N3"
+
+[question]
+text = "「弱い犬（　）よくほえる」と言います。"
+choices = ["ほど", "くらい", "さえ", "かぎり"]
+correct = "ほど"
+
+[grammar]
+main = "〜ほど：表示程度，也可用于‘越…越…’的结构"
+related = ["〜くらい"]
+
+tags = [
+  "level/N3",
+  "grammar/ほど",
+  "function/程度・比較",
+  "pattern/ことわざ・説明"
+]

@@ -1,0 +1,18 @@
+id = "chokuzen-n3-04-10"
+level = "N3"
+
+[question]
+text = "あの建物が完成するのに、いったい何年かかる（　）。"
+choices = ["ことか", "ことだ", "ものか", "しかない"]
+correct = "ことか"
+
+[grammar]
+main = "〜ことか：表示强烈的感叹，多么…啊"
+related = ["〜ものか", "〜ことだ"]
+
+tags = [
+  "level/N3",
+  "grammar/ことか",
+  "function/感嘆",
+  "pattern/書き言葉"
+]

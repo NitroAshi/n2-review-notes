@@ -1,0 +1,18 @@
+id = "chokuzen-n3-04-14"
+level = "N3"
+
+[question]
+text = "また次回がんばればいいじゃない。がっかりする（　）よ。"
+choices = ["ことだ", "ものか", "ものの", "ことはない"]
+correct = "ことはない"
+
+[grammar]
+main = "〜ことはない：表示‘没必要…’"
+related = ["〜なくてもいい"]
+
+tags = [
+  "level/N3",
+  "grammar/ことはない",
+  "function/助言・否定必要性",
+  "pattern/口語表現"
+]

@@ -1,0 +1,18 @@
+id = "chokuzen-n3-04-12"
+level = "N3"
+
+[question]
+text = "できない（　）できるなんて言わないほうがいいよ。"
+choices = ["くせに", "なんて", "なんか", "わりに"]
+correct = "くせに"
+
+[grammar]
+main = "〜くせに：明明…却…（责备、批评语气）"
+related = ["〜わりに（虽然…却…，但语气中性）"]
+
+tags = [
+  "level/N3",
+  "grammar/くせに",
+  "function/逆接・非難",
+  "pattern/口語・感情的"
+]

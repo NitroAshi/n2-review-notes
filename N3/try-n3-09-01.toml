@@ -1,5 +1,6 @@
 id = "try-n3-09-01"
 level = "N3"
+mistakes = 2
 
 [question]
 text = "申し訳ありませんが、部長に（　）、お答えできません。"

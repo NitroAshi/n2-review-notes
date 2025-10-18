@@ -1,0 +1,12 @@
+id = "try-n2-01-01"
+level = "N2"
+
+[question]
+text = "この体操は体力（　）、無理のないように行ってください。"
+choices = ["に限って", "に応じて", "にかわり", "において"]
+correct = "に応じて"
+
+[grammar]
+main = "に応じて"
+related = ["に基づいて", "に従って"]
+tags = ["level/N2", "grammar/に応じて", "function/条件・適応", "pattern/書き言葉"]

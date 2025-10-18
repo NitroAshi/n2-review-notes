@@ -1,0 +1,12 @@
+id = "try-n2-02-01"
+level = "N2"
+
+[question]
+text = "私は今の仕事が不満な（　）けど、もっとおもしろい仕事がしたいと思う。"
+choices = ["つもりだ", "ようだ", "はずがない", "わけじゃない"]
+correct = "わけじゃない"
+
+[grammar]
+main = "わけじゃない"
+related = ["わけだ", "わけではない"]
+tags = ["level/N2", "grammar/わけじゃない", "function/否定/反驳", "pattern/書き言葉"]

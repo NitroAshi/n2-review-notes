@@ -1,0 +1,12 @@
+id = "try-n2-02-07"
+level = "N2"
+
+[question]
+text = "あきらめる（　）、努力を続ければ、必ず成果は表れると信じている。"
+choices = ["ことなく", "からには", "ものだから", "とおり"]
+correct = "ことなく"
+
+[grammar]
+main = "ことなく"
+related = ["なく", "ことなく～ない"]
+tags = ["level/N2", "grammar/ことなく", "function/否定", "pattern/書き言葉"]

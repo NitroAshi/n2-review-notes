@@ -1,0 +1,12 @@
+id = "try-n2-02-03"
+level = "N2"
+
+[question]
+text = "ABKハウジングは東京（　）、関東地方６県の不動産を取り扱っております。"
+choices = ["くらい", "を目的に", "をはじめ", "のもとで"]
+correct = "をはじめ"
+
+[grammar]
+main = "をはじめ"
+related = ["を始め", "例を挙げる"]
+tags = ["level/N2", "grammar/をはじめ", "function/列挙", "pattern/書き言葉"]

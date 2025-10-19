@@ -1,5 +1,6 @@
 id = "try-n3-11-03"
 level = "N3"
+mistakes = 2
 
 [question]
 text = "昨日徹夜したせいで、目を開けていられない（　）眠いんだ。"

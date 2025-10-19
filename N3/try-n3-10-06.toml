@@ -1,5 +1,6 @@
 id = "try-n3-10-06"
 level = "N3"
+mistakes = 2
 
 [question]
 text = "A：風邪なんでしょう。会社休めば？\nB：年末の忙しい時期に風邪（　）、休めないよ。"

@@ -1,0 +1,17 @@
+id = "try-n2-03-07"
+level = "N2"
+
+[question]
+text = "本日はグラフィックデザイナー（　）ご活躍の渡辺たかしさんにお話を伺いたいと思います。"
+choices = ["として", "を問わず", "をはじめ", "はもとより"]
+correct = "として"
+
+[grammar]
+main = "として"
+related = ["をはじめ", "を問わず", "はもとより"]
+tags = [
+  "level/N2",
+  "grammar/として",
+  "function/身份・立场",
+  "pattern/名詞＋として"
+]

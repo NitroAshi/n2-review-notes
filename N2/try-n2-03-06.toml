@@ -1,0 +1,17 @@
+id = "try-n2-03-06"
+level = "N2"
+
+[question]
+text = "どんな仕事でも自分でやってみない（　）その大変さはわからないだろう。"
+choices = ["として", "限り", "際", "というより"]
+correct = "限り"
+
+[grammar]
+main = "ない限り"
+related = ["として", "際", "というより"]
+tags = [
+  "level/N2",
+  "grammar/ない限り",
+  "function/条件・限定",
+  "pattern/動詞ない形＋限り"
+]

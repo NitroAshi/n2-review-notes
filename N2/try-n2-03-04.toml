@@ -1,0 +1,17 @@
+id = "try-n2-03-04"
+level = "N2"
+
+[question]
+text = "この靴はデザイン（　）たいへん歩きやすいので気に入っています。"
+choices = ["として", "について", "によって", "はともかく"]
+correct = "はともかく"
+
+[grammar]
+main = "はともかく"
+related = ["として", "について", "によって"]
+tags = [
+  "level/N2",
+  "grammar/はともかく",
+  "function/让步・暂且不论",
+  "pattern/名詞＋はともかく"
+]

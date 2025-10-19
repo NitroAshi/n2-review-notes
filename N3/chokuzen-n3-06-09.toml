@@ -1,5 +1,6 @@
 id = "chokuzen-n3-06-09"
 level = "N3"
+mistakes = 2
 
 [question]
 text = "両親が（　）うちに、旅行に連れていきたい。"

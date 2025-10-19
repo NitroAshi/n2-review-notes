@@ -1,5 +1,6 @@
 id = "chokuzen-n3-01-14"
 level = "N3"
+mistakes = 2
 
 [question]
 text = "テレビ、見ないなら（　）。"

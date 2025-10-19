@@ -1,5 +1,6 @@
 id = "chokuzen-n3-01-07"
 level = "N3"
+mistakes = 2
 
 [question]
 text = "ちゃんと世話をしないと、金魚は（　）よ。"

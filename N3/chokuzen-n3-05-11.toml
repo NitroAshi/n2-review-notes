@@ -1,5 +1,6 @@
 id = "chokuzen-n3-05-11"
 level = "N3"
+mistakes = 2
 
 [question]
 text = "早く雪が解けて春に（　）なあ。"

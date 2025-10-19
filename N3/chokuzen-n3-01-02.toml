@@ -1,5 +1,6 @@
 id = "chokuzen-n3-01-02"
 level = "N3"
+mistakes = 2
 
 [question]
 text = "どうして悪いところを（　）としないんですか。"
@@ -7,7 +8,7 @@ choices = ["直しよう", "直ろう", "直そう", "直られよう"]
 correct = "直そう"
 
 [grammar]
-main = "意向形＋とする"
+main = "意向形＋とする(五段动词)"
 related = ["意向形＋と思う", "〜つもりだ"]
 
 tags = [

@@ -1,5 +1,6 @@
 id = "chokuzen-n3-02-12"
 level = "N3"
+mistakes = 2
 
 [question]
 text = "注意書き（　）、この薬を飲むと眠くなるらしい。"

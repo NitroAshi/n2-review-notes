@@ -1,5 +1,6 @@
 id = "chokuzen-n3-01-01"
 level = "N3"
+mistakes = 2
 
 [question]
 text = "このクラブには大人（　）入れません。"

@@ -1,5 +1,6 @@
 id = "chokuzen-n3-06-10"
 level = "N3"
+mistakes = 2
 
 [question]
 text = "これは古いから、もし（　）またすぐ壊れると思いますよ。"

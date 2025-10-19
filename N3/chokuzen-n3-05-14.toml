@@ -1,5 +1,6 @@
 id = "chokuzen-n3-05-14"
 level = "N3"
+mistakes = 2
 
 [question]
 text = "もう帰るんですか。もっとゆっくりしていけば（　）。"

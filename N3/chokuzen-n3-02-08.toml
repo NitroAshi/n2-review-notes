@@ -1,5 +1,6 @@
 id = "chokuzen-n3-02-08"
 level = "N3"
+mistakes = 2
 
 [question]
 text = "だまっていないで、言いたいことを言って（　）。"

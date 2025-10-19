@@ -1,5 +1,6 @@
 id = "chokuzen-n3-01-04"
 level = "N3"
+mistakes = 2
 
 [question]
 text = "このグラフからもわかる（　）人口は減っています。"

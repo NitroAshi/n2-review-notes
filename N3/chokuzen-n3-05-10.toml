@@ -1,5 +1,6 @@
 id = "chokuzen-n3-05-10"
 level = "N3"
+mistakes = 2
 
 [question]
 text = "「ペンキぬり（　）注意」と書いてある。"

@@ -1,5 +1,6 @@
 id = "chokuzen-n3-02-04"
 level = "N3"
+mistakes = 2
 
 [question]
 text = "（　）ことは知っていたが、−40℃とは驚いた。"

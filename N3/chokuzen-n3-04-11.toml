@@ -1,5 +1,6 @@
 id = "chokuzen-n3-04-11"
 level = "N3"
+mistakes = 2
 
 [question]
 text = "教えたことを生徒がどんどん覚えていくのを見ることほど、うれしい（　）。"

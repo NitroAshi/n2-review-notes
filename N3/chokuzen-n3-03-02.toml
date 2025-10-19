@@ -1,5 +1,6 @@
 id = "chokuzen-n3-03-02”
 level = "N3"
+mistakes = 2
 
 [question]
 text = "今、ちょっと手がはなせないので、後にして（　）んですが。"

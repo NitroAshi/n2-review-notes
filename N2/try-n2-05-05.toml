@@ -1,0 +1,17 @@
+id = "try-n2-04-05"
+level = "N2"
+
+[question]
+text = "ABK社は一流企業（　）給料が安くてびっくりした。"
+choices = ["にしては", "はもとより", "を問わず", "さえ"]
+correct = "にしては"
+
+[grammar]
+main = "にしては"
+related = ["はもとより", "を問わず", "さえ"]
+tags = [
+    "level/N2",
+    "grammar/にしては",
+    "function/対比",
+    "pattern/口語"
+]

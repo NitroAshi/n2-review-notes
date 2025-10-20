@@ -1,0 +1,17 @@
+id = "try-n2-04-02"
+level = "N2"
+
+[question]
+text = "みどり市では市民の皆様（　）環境保護に取り組んでいます。"
+choices = ["にともない", "とともに", "にかけて", "次第で"]
+correct = "とともに"
+
+[grammar]
+main = "とともに"
+related = ["にともない", "にかけて", "次第で"]
+tags = [
+    "level/N2",
+    "grammar/とともに",
+    "function/共同・一緒",
+    "pattern/書き言葉"
+]

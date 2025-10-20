@@ -1,0 +1,27 @@
+id = "try-n2-05-02"
+level = "N2"
+
+[question]
+text = "面接のチャンス（　）もらえれば、私の熱意が伝えられるのに…。"
+choices = ["ながら", "に限り", "さえ", "を問わず"]
+correct = "さえ"
+
+[grammar]
+main = "さえ"
+related = ["〜に限り", "〜を問わず", "〜ながら"]
+tags = [
+    "level/N2",
+    "grammar/さえ",
+    "function/条件",
+    "pattern/口語"
+]
+
+[usage]
+# Explanation of the two meanings of "さえ":
+# 1. "さえ"表示"连...都" (Emphasizing something extreme or special):
+#    - Example: 子供さえできたら、私は幸せです。(If I have a child, I will be happy, emphasizing that having a child is the most basic condition.)
+#    - Example: こんな簡単なことさえできないなんて…。 (I can't even do such a simple thing, emphasizing the extremity of the failure.)
+
+# 2. "さえ"表示"只要...就..." (Condition: As long as a certain condition is met, the result will happen):
+#    - Example: 時間さえあれば、旅行に行きたい。 (As long as I have time, I want to travel.)
+#    - Example: あなたさえ手伝ってくれれば、すぐに終わります。 (As long as you help, it will be finished soon.)

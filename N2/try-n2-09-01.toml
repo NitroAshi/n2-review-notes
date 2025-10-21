@@ -1,0 +1,17 @@
+id = "try-n2-09-01"
+level = "N2"
+
+[question]
+text = "当店では、作り（　）の味をお楽しみいただけるよう、ご注文を受けてから作っています。"
+choices = ["ながら", "たて", "かけ", "しだい"]
+correct = "たて"
+
+[grammar]
+main = "〜たて（刚……，新鲜……）"
+related = ["〜しだい（表示一……就……）", "〜たところ（刚……）"]
+tags = [
+  "level/N2",
+  "grammar/たて",
+  "function/状態表現",
+  "pattern/連体修飾"
+]

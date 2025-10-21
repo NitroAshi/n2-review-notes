@@ -1,0 +1,18 @@
+id = "try-n2-09-03"
+level = "N2"
+mistakes = 2
+
+[question]
+text = "９月になったのに、涼しくなる（　）、さらに暑さが厳しくなったような気がする。"
+choices = ["に反して", "くらいなら", "はもとより", "どころか"]
+correct = "どころか"
+
+[grammar]
+main = "〜どころか（哪有……反而……）"
+related = ["〜はもとより（不用说……连……也……）", "〜に反して（与……相反）"]
+tags = [
+  "level/N2",
+  "grammar/どころか",
+  "function/逆接",
+  "pattern/口語表現"
+]

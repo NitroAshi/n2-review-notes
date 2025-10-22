@@ -1,5 +1,6 @@
 id = "try-n2-02-01"
 level = "N2"
+mistakes = 2
 
 [question]
 text = "水泳は子どもからお年寄りまで世代（　）楽しめるスポーツだと言われている。"

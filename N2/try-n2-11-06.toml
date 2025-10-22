@@ -1,5 +1,6 @@
 id = "try-n2-11-06"
 level = "N2"
+mistakes = 2
 
 [question]
 text = "外国語を勉強するならその国に留学する（　）と私は思う。"

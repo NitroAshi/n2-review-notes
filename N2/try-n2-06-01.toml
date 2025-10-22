@@ -1,5 +1,6 @@
 id = "try-n2-06-01"
 level = "N2"
+mistakes = 2
 
 [question]
 text = "卒業論文が間に合わなかった（　）、卒業が半年遅れてしまった。"

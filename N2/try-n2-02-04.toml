@@ -1,5 +1,6 @@
 id = "try-n2-04-01"
 level = "N2"
+mistakes = 2
 
 [question]
 text = "「独立すると言って会社を辞める（　）、どんなに大変でもがんばれ」と部長に言われた。"
@@ -10,4 +11,3 @@ correct = "からには"
 main = "からには"
 related = ["から", "には"]
 tags = ["level/N2", "grammar/からには", "function/責任", "pattern/書き言葉"]
-

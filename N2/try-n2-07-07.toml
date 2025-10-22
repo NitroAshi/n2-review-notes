@@ -1,5 +1,6 @@
 id = "try-n2-07-07"
 level = "N2"
+mistakes = 2
 
 [question]
 text = "当学会は、研究者や専門家（　）、企業や個人の方々にも広く開かれた学会です。"

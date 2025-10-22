@@ -1,5 +1,6 @@
 id = "try-n2-04-02"
 level = "N2"
+mistakes = 2
 
 [question]
 text = "みどり市では市民の皆様（　）環境保護に取り組んでいます。"

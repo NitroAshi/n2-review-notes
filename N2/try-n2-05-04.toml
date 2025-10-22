@@ -1,5 +1,6 @@
 id = "try-n2-04-04"
 level = "N2"
+mistakes = 2
 
 [question]
 text = "明日は試験なのに、おなかが痛くて勉強（　）。"

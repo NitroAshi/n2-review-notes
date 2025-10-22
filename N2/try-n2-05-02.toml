@@ -7,7 +7,7 @@ choices = ["ながら", "に限り", "さえ", "を問わず"]
 correct = "さえ"
 
 [grammar]
-main = "さえ"
+main = "さえ～ば"
 related = ["〜に限り", "〜を問わず", "〜ながら"]
 tags = [
     "level/N2",

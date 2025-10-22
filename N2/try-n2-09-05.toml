@@ -1,5 +1,6 @@
 id = "try-n2-09-05"
 level = "N2"
+mistakes = 2
 
 [question]
 text = "リムジンバスが渋滞で遅れて、もう少しで飛行機に乗り遅れる（　）。"

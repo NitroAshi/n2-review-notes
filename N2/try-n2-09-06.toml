@@ -1,5 +1,6 @@
 id = "try-n2-09-06"
 level = "N2"
+mistakes = 2
 
 [question]
 text = "怖くて眠れなくなる（　）、ホラー映画なんて見なければいいのに。"

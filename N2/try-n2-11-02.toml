@@ -1,5 +1,6 @@
 id = "try-n2-11-02"
 level = "N2"
+mistakes = 2
 
 [question]
 text = "食べ物を売る店は、どんな店（　）衛生管理をきちんとしなければならない。"

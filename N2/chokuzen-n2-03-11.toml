@@ -1,0 +1,20 @@
+id = "chokuzen-n2-03-11"
+level = "N2"
+
+[question]
+text = "本をだれかに貸した（　）返してもらっていない。"
+choices = ["きり", "とたん", "ことに", "一方"]
+correct = "きり"
+
+[grammar]
+main = "〜きり（表示自从某事之后）"
+related = ["〜たきり", "〜しきり", "〜たまま"]
+tags = [
+    "level/N2",
+    "grammar/きり",
+    "function/时间表达",
+    "pattern/名詞接続"
+]
+
+[reminder]
+note = "「きり」表示自某事之后一直保持的状态，常用于表示某个动作后没有发生预期的结果。"

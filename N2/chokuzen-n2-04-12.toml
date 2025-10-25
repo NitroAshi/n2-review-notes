@@ -1,0 +1,17 @@
+id = "chokuzen-n2-04-12"
+level = "N2"
+
+[question]
+text = "子どもには勉強しろと（　）つつ、大人が勉強しないのはよくないと思う。"
+choices = ["言う", "言い", "言って", "言った"]
+correct = "言い"
+
+[grammar]
+main = "Vます形＋つつ：虽然……但是……／一边……一边……（书面语）"
+related = ["〜ながら", "〜つつも"]
+tags = [
+    "level/N2",
+    "grammar/つつ",
+    "function/逆接・同時進行",
+    "pattern/書き言葉・動詞連用形接続"
+]

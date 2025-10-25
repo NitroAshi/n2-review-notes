@@ -1,0 +1,17 @@
+id = "chokuzen-n2-03-05"
+level = "N2"
+
+[question]
+text = "医者に（　）とおりにしているのに、病気はなかなか治らない。"
+choices = ["言う", "指示した", "言われた", "指示"]
+correct = "言われた"
+
+[grammar]
+main = "〜とおりに（按照……那样）"
+related = ["〜ように", "〜にしたがって"]
+tags = [
+    "level/N2",
+    "grammar/とおりに",
+    "function/方式・方法",
+    "pattern/動詞接続"
+]

@@ -1,0 +1,17 @@
+id = "chokuzen-n2-04-02"
+level = "N2"
+
+[question]
+text = "Ｂ国から日本（　）に輸出される農産物の80％が果物である。"
+choices = ["向き", "向け", "向かい", "向こう"]
+correct = "向け"
+
+[grammar]
+main = "〜向けに (suitable for)"
+related = ["〜向き (for / intended for)"]
+tags = [
+    "level/N2",
+    "grammar/向け",
+    "function/対象・用途",
+    "pattern/名詞接続"
+]

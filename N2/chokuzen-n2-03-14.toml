@@ -1,0 +1,20 @@
+id = "chokuzen-n2-03-14"
+level = "N2"
+
+[question]
+text = "こんな高価な品物をいただくわけには（　）。"
+choices = ["いけません", "いきません", "ありません", "できません"]
+correct = "いきません"
+
+[grammar]
+main = "〜わけにはいかない（无法做某事，表示做不到或不能做）"
+related = ["〜わけがない", "〜わけではない"]
+tags = [
+    "level/N2",
+    "grammar/わけにはいかない",
+    "function/能力・許可",
+    "pattern/動詞接続"
+]
+
+[reminder]
+note = "「わけにはいかない」表示做不到或无法做，表示不能接受某事或不能做某事。"

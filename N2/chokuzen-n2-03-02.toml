@@ -1,0 +1,17 @@
+id = "chokuzen-n2-03-02"
+level = "N2"
+
+[question]
+text = "（　）のあまり叫んでしまった。"
+choices = ["うれし", "うれしい", "うれしくて", "うれしさ"]
+correct = "うれしさ"
+
+[grammar]
+main = "〜のあまり（由于过度……而……）"
+related = ["〜すぎて", "〜ほど"]
+tags = [
+    "level/N2",
+    "grammar/のあまり",
+    "function/原因・理由",
+    "pattern/名詞接続"
+]

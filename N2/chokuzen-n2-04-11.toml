@@ -1,0 +1,17 @@
+id = "chokuzen-n2-04-11"
+level = "N2"
+
+[question]
+text = "実物を（　）上で、買うかどうか決めます。"
+choices = ["見る", "見て", "見た", "見ない"]
+correct = "見た"
+
+[grammar]
+main = "Vた＋上で：做完……之后，再……（表示前后顺序）"
+related = ["Vる／名＋の＋上で：在……方面／从……角度"]
+tags = [
+    "level/N2",
+    "grammar/上で",
+    "function/順接・条件",
+    "pattern/書き言葉・動詞過去形接続"
+]

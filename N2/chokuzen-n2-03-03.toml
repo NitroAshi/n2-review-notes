@@ -1,0 +1,17 @@
+id = "chokuzen-n2-03-03"
+level = "N2"
+
+[question]
+text = "（　）ことに、飼っていたウサギは死んでしまった。"
+choices = ["悲しみ", "かわいそう", "残念な", "さびしさ"]
+correct = "残念な"
+
+[grammar]
+main = "〜ことに（令人……的是）"
+related = ["〜のに", "〜とは", "〜なんて"]
+tags = [
+    "level/N2",
+    "grammar/ことに",
+    "function/感情・評価",
+    "pattern/書き言葉"
+]

@@ -1,0 +1,17 @@
+id = "chokuzen-n2-04-05"
+level = "N2"
+
+[question]
+text = "彼女は彼の突然の結婚の申し込みに驚き（　）、うれしそうだった。"
+choices = ["ものの", "べきも", "ながらも", "にわたり"]
+correct = "ながらも"
+
+[grammar]
+main = "〜ながらも：虽然……但是……（逆接，用于情感或状态并存）"
+related = ["名词／普通形＋ものの", "〜にもかかわらず"]
+tags = [
+    "level/N2",
+    "grammar/ながらも",
+    "function/逆接",
+    "pattern/書き言葉・感情対比"
+]

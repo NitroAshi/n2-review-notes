@@ -1,0 +1,20 @@
+id = "chokuzen-n2-03-07"
+level = "N2"
+
+[question]
+text = "閉店は考えた（　）結論です。"
+choices = ["どおりの", "末の", "反し", "あまりの"]
+correct = "末の"
+
+[grammar]
+main = "〜末の（最终的）"
+related = ["〜の結論", "〜の決断"]
+tags = [
+    "level/N2",
+    "grammar/末の",
+    "function/表时间、阶段",
+    "pattern/名詞接続"
+]
+
+[reminder]
+note = "「末の」用于表示经过一段时间考虑后的最终结论或决定。常与结论、决断等名词一起使用。"

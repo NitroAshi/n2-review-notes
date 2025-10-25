@@ -1,0 +1,20 @@
+id = "chokuzen-n2-03-09"
+level = "N2"
+
+[question]
+text = "申し訳ない（　）、お借りしていた本を汚してしまいました。"
+choices = ["ことに", "ところ", "どころか", "末に"]
+correct = "ことに"
+
+[grammar]
+main = "〜ことに（令人……的是）"
+related = ["申し訳ないことに", "残念なことに"]
+tags = [
+    "level/N2",
+    "grammar/ことに",
+    "function/情感表达",
+    "pattern/副词接续"
+]
+
+[reminder]
+note = "「ことに」用于表示“令人……的是”或“非常……”。常用于情感表达中，特别是在表示歉意或遗憾时。"

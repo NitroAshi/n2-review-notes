@@ -1,0 +1,17 @@
+id = "chokuzen-n2-04-14"
+level = "N2"
+
+[question]
+text = "日本の美しい伝統は、日本人に（　）。"
+choices = ["忘れざるをえない", "忘れられつつある", "忘れることになっている", "忘れるにすぎない"]
+correct = "忘れられつつある"
+
+[grammar]
+main = "Vます形＋つつある：表示状态或情况正在变化中（逐渐……）"
+related = ["〜ている", "〜つつ"]
+tags = [
+    "level/N2",
+    "grammar/つつある",
+    "function/進行・変化",
+    "pattern/書き言葉・動詞連用形接続"
+]

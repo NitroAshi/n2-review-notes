@@ -1,0 +1,17 @@
+id = "chokuzen-n2-04-01"
+level = "N2"
+
+[question]
+text = "受験に（　）、次の点に注意してください。"
+choices = ["次第で", "そって", "わたり", "あたり"]
+correct = "あたり"
+
+[grammar]
+main = "〜にあたり／〜にあたって"
+related = ["〜に際して", "〜にあたって"]
+tags = [
+    "level/N2",
+    "grammar/にあたり",
+    "function/时机・契机",
+    "pattern/書き言葉"
+]

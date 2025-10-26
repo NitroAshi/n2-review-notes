@@ -1,0 +1,17 @@
+id = "chokuzen-n2-07-01"
+level = "N2"
+
+[question]
+text = "買う（　）借りる（　）、テキストを必ず持参すること。"
+choices = ["にしろ／にしろ", "やら／やら", "も／も", "し／し"]
+correct = "にしろ／にしろ"
+
+[grammar]
+main = "〜にしろ／〜にせよ（无论〜也〜）"
+related = ["〜ても", "〜にしても", "〜といっても"]
+tags = [
+  "level/N2",
+  "grammar/にしろ・にせよ",
+  "function/逆接・譲歩",
+  "pattern/書き言葉"
+]

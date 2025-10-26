@@ -1,0 +1,17 @@
+id = "chokuzen-n2-06-03"
+level = "N2"
+
+[question]
+text = "学校側（　）、家で起こっている問題の世話まではなかなかできない。"
+choices = ["からいえば", "からして", "からといって", "からには"]
+correct = "からいえば"
+
+[grammar]
+main = "〜からいえば（从……来看／从……立场来说）"
+related = ["〜からいうと", "〜から見ると", "〜にしても"]
+tags = [
+    "level/N2",
+    "grammar/からいえば",
+    "function/立場・観点",
+    "pattern/名詞＋からいえば"
+]

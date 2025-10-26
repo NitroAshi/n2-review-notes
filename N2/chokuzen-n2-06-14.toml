@@ -1,0 +1,23 @@
+id = "chokuzen-n2-06-14"
+level = "N2"
+
+[question]
+text = "昨夜の地震は震度３だった（　）。"
+choices = ["こと", "とか", "ことか", "ものだ"]
+correct = "とか"
+
+[grammar]
+main = "〜とか（听说……／好像……）"
+related = ["〜そうだ（伝聞）", "〜という話だ", "〜らしい"]
+tags = [
+    "level/N2",
+    "grammar/とか",
+    "function/伝聞・不確実情報",
+    "pattern/普通形＋とか"
+]
+
+[explanation]
+correct_usage = "「とか」用于传闻，表示‘听说～’或‘好像～’，语气柔和、不确定。句意：‘听说昨晚的地震是震度3。’"
+wrong_choice_1 = "「こと」只是名词化成分，不能单独表达传闻或判断，句尾使用不自然。"
+wrong_choice_3 = "「ことか」表示感叹‘多么……啊’，与传闻语义不符。"
+wrong_choice_4 = "「ものだ」表示一般常识、回忆或感叹，语义不符。"

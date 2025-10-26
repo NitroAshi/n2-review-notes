@@ -1,0 +1,17 @@
+id = "chokuzen-n2-06-01"
+level = "N2"
+
+[question]
+text = "ご招待する（　）楽しいパーティーにするつもりです。"
+choices = ["以来", "からして", "だとか", "からには"]
+correct = "からには"
+
+[grammar]
+main = "〜からには（既然……就……）"
+related = ["〜からは", "〜以上（は）"]
+tags = [
+    "level/N2",
+    "grammar/からには",
+    "function/理由・判断",
+    "pattern/文語的・断定的表現"
+]

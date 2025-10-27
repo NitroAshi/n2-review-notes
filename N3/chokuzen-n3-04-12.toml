@@ -1,6 +1,6 @@
 id = "chokuzen-n3-04-12"
 level = "N3"
-mistakes = 2
+mistakes = 3
 
 [question]
 text = "できない（　）できるなんて言わないほうがいいよ。"
@@ -17,3 +17,7 @@ tags = [
   "function/逆接・非難",
   "pattern/口語・感情的"
 ]
+
+# 彼が来るなんて思わなかった。
+#（かれ が くる なんて おもわなかった）
+# 没想到他居然会来。

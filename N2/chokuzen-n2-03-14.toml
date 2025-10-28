@@ -1,5 +1,6 @@
 id = "chokuzen-n2-03-14"
 level = "N2"
+mistakes = 2
 
 [question]
 text = "こんな高価な品物をいただくわけには（　）。"

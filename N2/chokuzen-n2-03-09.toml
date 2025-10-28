@@ -1,5 +1,6 @@
 id = "chokuzen-n2-03-09"
 level = "N2"
+mistakes = 2
 
 [question]
 text = "申し訳ない（　）、お借りしていた本を汚してしまいました。"
@@ -7,7 +8,7 @@ choices = ["ことに", "ところ", "どころか", "末に"]
 correct = "ことに"
 
 [grammar]
-main = "〜ことに（令人……的是）"
+main = "〜ことに（令人……的是, 也可表示非常，比如非常抱歉）"
 related = ["申し訳ないことに", "残念なことに"]
 tags = [
     "level/N2",

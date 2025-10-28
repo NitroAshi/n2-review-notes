@@ -1,5 +1,6 @@
 id = "chokuzen-n2-02-04"
 level = "N2"
+mistakes = 3
 
 [question]
 text = "悩み（　）、結局、彼は真実を話した。"

@@ -1,5 +1,6 @@
 id = "chokuzen-n2-01-10"
 level = "N2"
+mistakes = 2
 
 [question]
 text = "修理すれば（　）けれど、古いから捨てよう。"

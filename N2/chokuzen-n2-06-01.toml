@@ -1,5 +1,6 @@
 id = "chokuzen-n2-06-01"
 level = "N2"
+mistakes = 2
 
 [question]
 text = "ご招待する（　）楽しいパーティーにするつもりです。"

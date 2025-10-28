@@ -1,5 +1,6 @@
 id = "chokuzen-n2-07-14"
 level = "N2"
+mistakes = 2
 
 [question]
 text = "この問題集は、実際の授業で使った教材を（　）作られている。"

@@ -1,5 +1,6 @@
 id = "chokuzen-n2-04-02"
 level = "N2"
+mistakes = 2
 
 [question]
 text = "Ｂ国から日本（　）に輸出される農産物の80％が果物である。"

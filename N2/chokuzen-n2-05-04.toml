@@ -1,5 +1,6 @@
 id = "chokuzen-n2-05-04"
 level = "N2"
+mistakes = 2
 
 [question]
 text = "なぜあんなことをしたのか、本人に聞いてみない（　）理由はわからない。"

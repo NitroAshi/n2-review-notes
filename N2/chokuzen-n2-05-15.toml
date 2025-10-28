@@ -1,5 +1,6 @@
 id = "chokuzen-n2-05-15"
 level = "N2"
+mistakes = 2
 
 [question]
 text = "姉は３日も寝ないで机に向かっている。あれでは体を（　）。"

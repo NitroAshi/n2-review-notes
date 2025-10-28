@@ -1,5 +1,6 @@
 id = "chokuzen-n2-04-03"
 level = "N2"
+mistakes = 2
 
 [question]
 text = "新しい情報が（　）次第、お知らせします。"

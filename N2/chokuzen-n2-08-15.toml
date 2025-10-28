@@ -1,5 +1,6 @@
 id = "try-n2-15-15"
 level = "N2"
+mistakes = 2
 
 [question]
 text = "単位が足りません。（　）君は卒業できないということになります。"

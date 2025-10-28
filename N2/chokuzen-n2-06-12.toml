@@ -1,5 +1,6 @@
 id = "chokuzen-n2-06-12"
 level = "N2"
+mistakes = 2
 
 [question]
 text = "アジア（　）日本の役割を考えなければならない。"

@@ -1,5 +1,6 @@
 id = "chokuzen-n2-07-15"
 level = "N2"
+mistakes = 2
 
 [question]
 text = "インターネットでご予約の（　）には、パスワードが必要となります。"

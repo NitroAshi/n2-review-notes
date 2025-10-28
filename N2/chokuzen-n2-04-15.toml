@@ -1,5 +1,6 @@
 id = "chokuzen-n2-04-15"
 level = "N2"
+mistakes = 2
 
 [question]
 text = "確かに、今この商品は人気があるが、一時的な流行（　）。"
@@ -8,7 +9,7 @@ correct = "にすぎない"
 
 [grammar]
 main = "〜にすぎない：只不过是……而已，用于客观说明或轻描淡写地限制范围。"
-related = ["〜だけだ", "〜わけではない"]
+related = ["〜だけだ", "〜わけではない", "せざるをえない(不得不)"]
 tags = [
     "level/N2",
     "grammar/にすぎない",

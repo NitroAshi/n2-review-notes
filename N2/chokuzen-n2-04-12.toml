@@ -1,5 +1,6 @@
 id = "chokuzen-n2-04-12"
 level = "N2"
+mistakes = 2
 
 [question]
 text = "子どもには勉強しろと（　）つつ、大人が勉強しないのはよくないと思う。"

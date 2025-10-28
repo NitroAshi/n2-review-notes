@@ -1,5 +1,6 @@
 id = "try-n2-08-12"
 level = "N2"
+mistakes = 2
 
 [question]
 text = "A: 昨日は大変でしたね。\nB: ええ、ほんとうに疲れました。（　）、高橋選手、メダルとりましたね！"

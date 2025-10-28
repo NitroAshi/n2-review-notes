@@ -1,5 +1,6 @@
 id = "chokuzen-n2-06-14"
 level = "N2"
+mistakes = 2
 
 [question]
 text = "昨夜の地震は震度３だった（　）。"

@@ -1,5 +1,6 @@
 id = "try-n2-08-10"
 level = "N2"
+mistakes = 2
 
 [question]
 text = "私、ここに来られるのは今日が最後なんです。（　）転職するんです。"

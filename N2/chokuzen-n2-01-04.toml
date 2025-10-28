@@ -1,5 +1,6 @@
 id = "chokuzen-n2-01-04"
 level = "N2"
+mistakes = 2
 
 [question]
 text = "いつも自信たっぷりの彼が、きょうは自信（　）げな顔をしている。"

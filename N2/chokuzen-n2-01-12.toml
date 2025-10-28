@@ -1,5 +1,6 @@
 id = "chokuzen-n2-01-12"
 level = "N2"
+mistakes = 2
 
 [question]
 text = "どうして携帯電話を持たないの。"

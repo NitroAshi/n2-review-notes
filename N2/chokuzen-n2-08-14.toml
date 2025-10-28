@@ -1,5 +1,6 @@
 id = "try-n2-14-14"
 level = "N2"
+mistakes = 2
 
 [question]
 text = "本棚にあった１冊の本を手にとって開いた。（　）中に古い写真がはさんであった。"

@@ -1,5 +1,6 @@
 id = "chokuzen-n2-02-09"
 level = "N2"
+mistakes = 2
 
 [question]
 text = "小学生以下のお子さん（　）、プレゼントをさしあげます。"

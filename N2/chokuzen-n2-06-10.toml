@@ -1,5 +1,6 @@
 id = "chokuzen-n2-06-10"
 level = "N2"
+mistakes = 2
 
 [question]
 text = "よそから来た人（　）、ここの習慣は受け入れがたいものなのかもしれない。"

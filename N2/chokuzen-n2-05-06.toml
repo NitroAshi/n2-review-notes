@@ -1,5 +1,6 @@
 id = "chokuzen-n2-05-06"
 level = "N2"
+mistakes = 2
 
 [question]
 text = "彼は自分でも認めている（　）、確かにあきっぽい。"

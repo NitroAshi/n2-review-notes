@@ -1,5 +1,6 @@
 id = "try-n2-08-04"
 level = "N2"
+mistakes = 2
 
 [question]
 text = "びんのふたを開けるのにいつも苦労していた。（　）この商品を開発したわけです。"

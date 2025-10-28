@@ -1,5 +1,6 @@
 id = "chokuzen-n2-07-04"
 level = "N2"
+mistakes = 2
 
 [question]
 text = "彼女は耳も（　）目も見えなかった。"

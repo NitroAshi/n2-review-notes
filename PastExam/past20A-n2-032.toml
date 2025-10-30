@@ -1,0 +1,41 @@
+id = "past20A-n2-032"
+level = "N2"
+
+[question]
+text = "12年間付き合っている彼女に、今年（　）結婚を申し込もうと思っている。"
+choices = ["こそ", "さえ", "すら", "のみ"]
+correct = "こそ"
+
+[grammar]
+main = "〜こそ（强调主语、对象或契机，带有强烈的决心或感情）"
+related = ["〜でも", "〜さえ", "〜すら"]
+tags = [
+  "level/N2",
+  "grammar/こそ",
+  "function/強調・決意",
+  "pattern/会話表現"
+]
+
+# 🧩 解析：
+# 「〜こそ」用于强调前项，是“正是～”“才是～”的意思，常带有说话人的强烈情感、决心、肯定语气。
+# 本句「今年こそ結婚を申し込もうと思っている」＝“今年一定要向她求婚！”
+# 语气中带有“前几年没做到，但今年一定要”的决心，非常自然。
+
+# ✅ 正确理解：
+# 「今年こそ」= “This year for sure / This year definitely”
+# 句意：交往12年的女友，今年一定要向她求婚。
+
+# 🟥 错误选项：
+# 2. さえ → 表示“甚至…连…”（even）  
+#    例如「子どもでさえ知っている」＝“连孩子都知道”。  
+#    在本句中没有“出乎意料的对象”，语义不符。
+#
+# 3. すら → 比「さえ」更书面、更强调“极端”，语义同样不合逻辑。
+#
+# 4. のみ → 表示“只…”，意思变为“只向她求婚”，逻辑不通。
+#
+# 💬 英文解释：
+# 「〜こそ」＝ *emphasizes something as the very reason, moment, or person*  
+# → “This year (for sure) I’ll propose to her.”  
+# 「〜さえ」＝ *even / as long as*  
+# → would imply surprise or minimal condition, which doesn’t fit this emotional emphasis.

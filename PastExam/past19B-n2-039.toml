@@ -1,0 +1,37 @@
+id = "past19B-n2-039"
+level = "N2"
+
+[question]
+text = "子どものおもちゃは、種類ごとに透明なケースにしまって中身がわかる（　）、子どもがおもちゃを探しやすくなるので、おすすめです。"
+choices = ["ようになるには", "ようにしておくと", "ようになっても", "ようにしておいて"]
+correct = "ようにしておくと"
+
+[grammar]
+main = "〜ようにしておく（提前准备好某种状态）"
+related = ["〜ようにする", "〜ておく", "〜ようになっている"]
+tags = [
+  "level/N2",
+  "grammar/ようにしておく",
+  "function/准备・预防",
+  "pattern/口语表达"
+]
+
+# 解析：
+# 「〜ようにしておく」＝「事前に〜できる状態にしておく」。
+# 意思是“事先把情况安排成某种状态”，常用于建议或日常说明。
+# 句意：把孩子的玩具按种类放进透明盒子里，使内容一目了然，这样孩子就更容易找到玩具，所以很推荐。
+#
+# 对比错误选项：
+# 3. ようになっても → “即使变成那样”，带让步语气（even if it becomes that way）。
+#    但句中并非“即使…也…”的关系，而是“如果…就…”的因果关系。
+#    因此语法逻辑错误。
+#
+# 其他选项：
+# 1. ようになるには → “为了能变成那样”，语义不符。
+# 4. ようにしておいて → 语气上也可能通，但此句是一般建议，用「〜しておくと」更自然（“如果…的话”条件句形式）。
+#
+# 英文解释：
+# 「〜ようにしておく」 = *to make sure (something) is in a certain state in advance*.
+# Here it means “If you store the toys in clear boxes so that you can see what’s inside, 
+# it becomes easier for kids to find their toys.”
+# → “ようになっても” = *even if it becomes that way*, which doesn’t fit the cause–result logic here.

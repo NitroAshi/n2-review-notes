@@ -1,0 +1,19 @@
+id = "past21A-n2-031"
+level = "N2"
+
+[question]
+text = "野党の追及に対し、大臣は満足な回答ができなかったどころか、質問の内容（　）理解できていなかった。"
+choices = ["すら", "こそ", "のみ", "ほど"]
+correct = "すら"
+
+[grammar]
+main = "すら（＝さえ）"
+related = ["さえ", "まで", "ほど"]
+tags = [
+    "level/N2",
+    "grammar/すら",
+    "function/程度・極端",
+    "pattern/書き言葉"
+]
+
+# ほど的话，ない应该在ほど前面

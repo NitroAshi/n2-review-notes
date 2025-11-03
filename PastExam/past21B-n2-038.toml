@@ -1,5 +1,6 @@
 id = "past21B-n2-038"
 level = "N2"
+mistakes = 2
 
 [question]
 text = "友達は、お茶でうがいを（　）、風邪をひかなくなったらしい。私も始めてみようと思う。"

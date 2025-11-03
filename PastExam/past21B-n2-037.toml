@@ -1,5 +1,6 @@
 id = "past21B-n2-037"
 level = "N2"
+mistakes = 2
 
 [question]
 text = "娘は、社会人（　）朝一人で起きられない。私が起こさないといつまでも寝ている。"

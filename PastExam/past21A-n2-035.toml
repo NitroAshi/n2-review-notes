@@ -1,5 +1,6 @@
 id = "past21A-n2-035"
 level = "N2"
+mistakes = 2
 
 [question]
 text = "昨夜よく眠れなかった（　）、体がだるい。"

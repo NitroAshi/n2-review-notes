@@ -1,5 +1,6 @@
 id = "past21B-n2-033"
 level = "N2"
+mistakes = 2
 
 [question]
 text = "今日の試合は大雪で延期になった。（　）この時期に大雪になるとは思わなかった。"

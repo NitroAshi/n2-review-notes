@@ -1,0 +1,17 @@
+id = "past22A-n2-017"
+level = "N2"
+
+[question]
+text = "この時期に雪が降ることはあるが、積もることは（　　）だ。"
+choices = ["多い", "まれ", "ひどい", "すごい"]
+correct = "まれ"
+
+[grammar]
+main = "～ことはあるが"
+related = ["まれだ", "が（逆接）"]
+tags = [
+  "level/N2",
+  "grammar/ことはあるが",
+  "function/逆接",
+  "pattern/名詞修飾"
+]

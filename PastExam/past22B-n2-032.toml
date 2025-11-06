@@ -1,5 +1,6 @@
 id = "past22B-n2-032"
 level = "N2"
+mistakes = 2
 
 [question]
 text = "子供のころはピーマンが嫌いだったが、今は嫌いではない。（　）好きな野菜の一つだ。"

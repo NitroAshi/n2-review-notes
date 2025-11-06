@@ -1,5 +1,6 @@
 id = "past22A-n2-034"
 level = "N2"
+mistakes = 2
 
 [question]
 text = "A：「ねえ、経済学のレポート書けた？」 B：「うん、難しかったけど、（　）書いたよ。」"

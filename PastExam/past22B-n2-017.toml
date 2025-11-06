@@ -1,5 +1,6 @@
 id = "past22A-n2-017"
 level = "N2"
+mistakes = 2
 
 [question]
 text = "この時期に雪が降ることはあるが、積もることは（　　）だ。"

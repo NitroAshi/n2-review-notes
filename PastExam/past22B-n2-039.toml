@@ -1,5 +1,6 @@
 id = "past22B-n2-039"
 level = "N2"
+mistakes = 2
 
 [question]
 text = "「倉庫の中を片付けなければ」と前からずっと思っているのだが、忙しくてなかなか（　）。"

@@ -1,5 +1,6 @@
 id = "past11A-n2-043"
 level = "N2"
+mistaskes = 2
 
 [question]
 text = "A「 あれ？あそこにいるの、山田さんかな。」 B「 山田さんは出張中だよ。今ここに（　）。」"

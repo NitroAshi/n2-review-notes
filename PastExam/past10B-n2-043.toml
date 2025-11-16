@@ -1,5 +1,6 @@
 id = "past10B-n2-043"
 level = "N2"
+mistaskes = 2
 
 [question]
 text = "さっきご飯を食べた（　）、もうおなかがすいてきた。"

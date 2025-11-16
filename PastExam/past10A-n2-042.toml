@@ -1,5 +1,6 @@
 id = "past10A-n2-042"
 level = "N2"
+mistaskes = 2
 
 [question]
 text = "人間の脳に関する研究で明らかになったことはまだほんの一部（　）、その研究は着実に進んできた。"

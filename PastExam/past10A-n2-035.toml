@@ -1,5 +1,6 @@
 id = "past10A-n2-035"
 level = "N2"
+mistaskes = 2
 
 [question]
 text = "踏切事故のために、２時間（　）、電車がストップしました。"

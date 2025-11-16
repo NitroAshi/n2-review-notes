@@ -1,5 +1,6 @@
 id = "past10B-n2-054"
 level = "N2"
+mistaskes = 2
 
 [question]
 text = "花粉症の人もそうでない人も、春は過ごし方に少し（　）。"
